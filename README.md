@@ -6,5 +6,5 @@ Our project primarily utilizes Python packages such as Pandas, seaborn for visua
 
 Overall, I was able to implement a lot of techniques/concepts I learned from class in the project and gained a lot of experience!
 
-Click [here](https://docs.google.com/presentation/d/1bptm0tnY-efi9nXrIC0u8oaniwjNyZmMG4kg3KxuXWk/edit?usp=sharing) to view our presentation slides.
+Click [here](https://docs.google.com/presentation/d/1bptm0tnY-efi9nXrIC0u8oaniwjNyZmMG4kg3KxuXWk/edit?usp=sharing) to view our presentation slides and learn more about our overall insights.
 
