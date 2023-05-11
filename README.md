@@ -4,7 +4,7 @@ This was the first group project I ever got to work on in my data analytics jour
 
 Our project primarily utilizes Python packages such as Pandas, seaborn for visualization, and sklearn for machine learning. Some highlights of the project were the data cleaning (funnily enough), the regression model, and the decision tree. Check out the Jupyter notebook in this repo for further analysis.
 
-Overall, I was able to implement a lot of techniques/concepts I learned from class in the project and learned a lot!
+Overall, I was able to implement a lot of techniques/concepts I learned from class in the project and gained a lot of experience!
 
 Click [here](https://docs.google.com/presentation/d/1bptm0tnY-efi9nXrIC0u8oaniwjNyZmMG4kg3KxuXWk/edit?usp=sharing) to view our presentation slides.
 
