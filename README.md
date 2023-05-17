@@ -1,4 +1,4 @@
-# Mental Health in Tech 2016 Project (Python)
+# Mental Health in Tech Project (Python)
 
 This was a final project for my first MSBA course at Santa Clara University - Data Analytics with Python. Our task was to team up with 3-4 classmates, find any public dataset online that seemed interesting, and uncover 3 major findings for it. My awesome partners were [Aaron Huang](https://www.linkedin.com/in/aaron-huang-scu/), [Aditi Bagepalli](https://www.linkedin.com/in/aditibagepalli/), and [Brian Beams](https://www.linkedin.com/in/brimism/). 
 
