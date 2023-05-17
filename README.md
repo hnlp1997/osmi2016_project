@@ -13,7 +13,7 @@ Our project primarily utilizes Python packages such as Pandas, seaborn for visua
 
 ![Sought MH Treatment](https://cdn.discordapp.com/attachments/663146570765566003/1108205072015433898/image.png "Breakdown by Gender")
 
-Our conclusion in our analysis is that women and non-binary tech employees proporitionally seek mental health treatment the least in comparison to male employees. In order to reduce the likelihood of mental health disorders for tech workers, it is recommended that employers allocate proper resources for mental health treatment, nurture more human connection in the workspace by organizing events such as healing circles and outdoor retreats, and offer more paid time off. 
+Our conclusion in our analysis is that women and non-binary tech employees proporitionally seek mental health treatment the least in comparison to male employees. In order to reduce the likelihood of mental health disorders for tech workers, it is recommended that employers allocate proper resources for mental health treatment, create ERG's for women and LGTBTQ+ employees, nurture more human connection in the workspace by organizing events such as healing circles and outdoor retreats, and offer more paid time off. 
 
 Overall, I was able to implement a lot of techniques and concepts I learned from class in the project and gained a lot of experience using Python. Click [here](https://docs.google.com/presentation/d/1bptm0tnY-efi9nXrIC0u8oaniwjNyZmMG4kg3KxuXWk/edit?usp=sharing) to view our presentation slides and learn more about our thought process.
 
